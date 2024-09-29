@@ -1,5 +1,4 @@
 # Task-Tracker-CLI
-<<<<<<< HEAD
 
 Task-Tracker-CLI is a simple command-line interface (CLI) application for managing and tracking your tasks. It allows you to add, update, delete, and list tasks, as well as mark their status.
 
