@@ -1,4 +1,5 @@
 # Task-Tracker-CLI
+<<<<<<< HEAD
 
 Task-Tracker-CLI is a simple command-line interface (CLI) application for managing and tracking your tasks. It allows you to add, update, delete, and list tasks, as well as mark their status.
 
@@ -75,3 +76,6 @@ python cli.py list in-progress
 ```
 
 source: https://roadmap.sh/projects/task-tracker
+=======
+Task tracker is a project used to track and manage your tasks. It is a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on.
+>>>>>>> 1b124b04c0b27e097d96f93dce2e155e0b313abe
